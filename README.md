@@ -139,7 +139,7 @@ Google 开源项目的代码风格规范。
 
 笔者在学习的过程中有做笔记的习惯，一方面是为了更深入的理解，另一方面是因为不习惯一些书籍文章的语言描述和排版风格。
 
-[BOOKLIST](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/BOOKLIST.md)，这个书单是笔者至今看的一些比较好的技术书籍，虽然没有全都翻完，但是每本书多多少少都看过一部分。
+[BOOKLIST](https://github.com/CyC2018/Interview-Notebook/blob/master/BOOKLIST.md)，这个书单是笔者至今看的一些比较好的技术书籍，虽然没有全都翻完，但是每本书多多少少都看过一部分。
 
 这个仓库算是笔者的一个学习笔记，主要记录一些比较重要的知识点，希望对大家有所帮助。
 
